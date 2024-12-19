@@ -1,0 +1,7 @@
+sentence-transformers==3.0.1
+chromadb==0.5.3
+PyPDF2==3.0.1
+cohere==5.5.8
+streamlit==1.36.0
+python-dotenv
+# pysqlite3-binary --->Only add this if you want to to deploy to Streamlit Community Cloud
